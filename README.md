@@ -15,3 +15,8 @@ Two different models are combined together in this file.
 ## How should these files be executed?
 
 The order is the following: "train.py", "transfer.py", and "merged_model.py".
+
+## Dataset
+
+CIFAR-10 dataset can be obtained in the following link:
+https://www.cs.toronto.edu/~kriz/cifar.html
